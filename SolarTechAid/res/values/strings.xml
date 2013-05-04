@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Solar Tech Aid</string>
-    <string name="hello_world">fuck YOUR MOTHER!!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="app_name">Solar-Tech Aid</string>
+    <string name="solve_button1">Solve</string>
+    <string name="menu_settings">title</string>
+    <string name="greeting">Solar Tech Aid Main Menu</string>
+    <string name="choice1">go to next act</string>
+    <string name="solution1">solution</string>
+    <string name="title_activity_Second">Second</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_third">ThirdActivity</string>
 
 </resources>

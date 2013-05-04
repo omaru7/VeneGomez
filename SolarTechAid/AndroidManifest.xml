@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="16" />
+        android:minSdkVersion="9"
+        android:targetSdkVersion="17" />
 
     <application
         android:allowBackup="true"
@@ -21,6 +21,13 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.VeneGomez.solartechaid.ThirdActivity"
+            android:label="@string/title_activity_third" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.VeneGomez.solartechaid.MainActivity" />
         </activity>
     </application>
 
